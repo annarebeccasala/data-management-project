@@ -1,0 +1,121 @@
+round,driverId,constructorId,grid,position,points,status,laps,time,fastestLap
+2,hamilton,ferrari,1,1,8,Finished,19,0 days 00:30:39.965000,0 days 00:01:35.399000
+2,piastri,mclaren,3,2,7,Finished,19,0 days 00:30:46.854000,0 days 00:01:35.854000
+2,max_verstappen,red_bull,2,3,6,Finished,19,0 days 00:30:49.769000,0 days 00:01:35.745000
+2,russell,mercedes,5,4,5,Finished,19,0 days 00:30:51.557000,0 days 00:01:35.891000
+2,leclerc,ferrari,4,5,4,Finished,19,0 days 00:30:52.155000,0 days 00:01:36.255000
+2,tsunoda,rb,8,6,3,Finished,19,0 days 00:31:02.253000,0 days 00:01:36.388000
+2,antonelli,mercedes,7,7,2,Finished,19,0 days 00:31:03.003000,0 days 00:01:36.311000
+2,norris,mclaren,6,8,1,Finished,19,0 days 00:31:03.436000,0 days 00:01:36.708000
+2,stroll,aston_martin,10,9,0,Finished,19,0 days 00:31:04.881000,0 days 00:01:36.435000
+2,alonso,aston_martin,11,10,0,Finished,19,0 days 00:31:18.183000,0 days 00:01:37.058000
+2,albon,williams,9,11,0,Finished,19,0 days 00:31:19.257000,0 days 00:01:37.344000
+2,gasly,alpine,17,12,0,Finished,19,0 days 00:31:19.614000,0 days 00:01:37.481000
+2,hadjar,rb,15,13,0,Finished,19,0 days 00:31:22.365000,0 days 00:01:37.549000
+2,lawson,red_bull,19,14,0,Finished,19,0 days 00:31:24.869000,0 days 00:01:37.163000
+2,bearman,haas,12,15,0,Finished,19,0 days 00:31:25.614000,0 days 00:01:37.135000
+2,ocon,haas,18,16,0,Finished,19,0 days 00:31:26.147000,0 days 00:01:37.554000
+2,sainz,williams,13,17,0,Finished,19,0 days 00:31:31.341000,0 days 00:01:35.819000
+2,bortoleto,sauber,14,18,0,Finished,19,0 days 00:31:33.905000,0 days 00:01:37.475000
+2,hulkenberg,sauber,20,19,0,Finished,19,0 days 00:31:36.647000,0 days 00:01:36.529000
+2,doohan,alpine,16,20,0,Finished,19,0 days 00:31:50.177000,0 days 00:01:37.686000
+6,norris,mclaren,3,1,8,Finished,18,0 days 00:36:37.647000,0 days 00:01:40.334000
+6,piastri,mclaren,2,2,7,Finished,18,0 days 00:36:38.319000,0 days 00:01:40.238000
+6,hamilton,ferrari,7,3,6,Finished,18,0 days 00:36:38.720000,0 days 00:01:36.368000
+6,russell,mercedes,5,4,5,Finished,18,0 days 00:36:40.774000,0 days 00:01:40.963000
+6,stroll,aston_martin,16,5,4,Finished,18,0 days 00:36:41.059000,0 days 00:01:36.839000
+6,tsunoda,red_bull,20,6,3,Finished,18,0 days 00:36:42.800000,0 days 00:01:38.078000
+6,antonelli,mercedes,1,7,2,Finished,18,0 days 00:36:43.282000,0 days 00:01:41.012000
+6,gasly,alpine,13,8,1,Finished,18,0 days 00:36:43.620000,0 days 00:01:42.694000
+6,hulkenberg,sauber,11,9,0,Finished,18,0 days 00:36:43.800000,0 days 00:01:42.871000
+6,hadjar,rb,9,10,0,Finished,18,0 days 00:36:45.149000,0 days 00:01:42.260000
+6,albon,williams,8,11,0,Finished,18,0 days 00:36:45.169000,0 days 00:01:41.699000
+6,ocon,haas,12,12,0,Finished,18,0 days 00:36:46.645000,0 days 00:01:42.550000
+6,lawson,rb,14,13,0,Finished,18,0 days 00:36:46.671000,0 days 00:01:41.922000
+6,bearman,haas,19,14,0,Finished,18,0 days 00:36:46.865000,0 days 00:01:42.237000
+6,bortoleto,sauber,18,15,0,Finished,18,0 days 00:36:47.322000,0 days 00:01:42.989000
+6,doohan,alpine,17,16,0,Finished,18,0 days 00:36:47.556000,0 days 00:01:43.076000
+6,max_verstappen,red_bull,4,17,0,Finished,18,0 days 00:36:49.706000,0 days 00:01:40.697000
+6,alonso,aston_martin,10,18,0,Retired,13,,0 days 00:01:41.782000
+6,sainz,williams,15,19,0,Retired,12,,0 days 00:01:42.638000
+6,leclerc,ferrari,6,20,0,Retired,0,,
+13,max_verstappen,red_bull,2,1,8,Finished,15,0 days 00:26:37.997000,0 days 00:01:46.052000
+13,piastri,mclaren,1,2,7,Finished,15,0 days 00:26:38.750000,0 days 00:01:46.061000
+13,norris,mclaren,3,3,6,Finished,15,0 days 00:26:39.411000,0 days 00:01:45.914000
+13,leclerc,ferrari,4,4,5,Finished,15,0 days 00:26:48.173000,0 days 00:01:46.343000
+13,ocon,haas,5,5,4,Finished,15,0 days 00:26:51.786000,0 days 00:01:46.772000
+13,sainz,williams,6,6,3,Finished,15,0 days 00:26:52.961000,0 days 00:01:46.770000
+13,bearman,haas,7,7,2,Finished,15,0 days 00:26:56.607000,0 days 00:01:47.038000
+13,hadjar,rb,9,8,1,Finished,15,0 days 00:26:57.116000,0 days 00:01:46.973000
+13,bortoleto,sauber,10,9,0,Finished,15,0 days 00:27:00.180000,0 days 00:01:47.086000
+13,lawson,rb,11,10,0,Finished,15,0 days 00:27:00.894000,0 days 00:01:47.249000
+13,tsunoda,red_bull,12,11,0,Finished,15,0 days 00:27:02.548000,0 days 00:01:47.326000
+13,russell,mercedes,13,12,0,Finished,15,0 days 00:27:03.966000,0 days 00:01:47.278000
+13,stroll,aston_martin,15,13,0,Finished,15,0 days 00:27:04.592000,0 days 00:01:47.307000
+13,alonso,aston_martin,14,14,0,Finished,15,0 days 00:27:07.043000,0 days 00:01:47.444000
+13,hamilton,ferrari,18,15,0,Finished,15,0 days 00:27:08.172000,0 days 00:01:47.201000
+13,albon,williams,16,16,0,Finished,15,0 days 00:27:08.938000,0 days 00:01:47.419000
+13,antonelli,mercedes,19,17,0,Finished,15,0 days 00:27:09.978000,0 days 00:01:46.698000
+13,hulkenberg,sauber,17,18,0,Finished,15,0 days 00:27:10.864000,0 days 00:01:47.575000
+13,colapinto,alpine,20,19,0,Finished,15,0 days 00:27:16.069000,0 days 00:01:47.944000
+13,gasly,alpine,8,20,0,Retired,12,,0 days 00:01:47.651000
+19,max_verstappen,red_bull,1,1,8,Finished,19,0 days 00:37:58.229000,0 days 00:01:36.527000
+19,russell,mercedes,5,2,7,Finished,19,0 days 00:37:58.624000,0 days 00:01:36.876000
+19,sainz,williams,7,3,6,Finished,19,0 days 00:37:59.020000,0 days 00:01:37.510000
+19,hamilton,ferrari,8,4,5,Finished,19,0 days 00:37:59.453000,0 days 00:01:37.096000
+19,leclerc,ferrari,10,5,4,Finished,19,0 days 00:38:00.054000,0 days 00:01:37.391000
+19,albon,williams,9,6,3,Finished,19,0 days 00:38:00.805000,0 days 00:01:38.220000
+19,tsunoda,red_bull,18,7,2,Finished,19,0 days 00:38:01.205000,0 days 00:01:38.268000
+19,antonelli,mercedes,11,8,1,Finished,19,0 days 00:38:02.376000,0 days 00:01:37.758000
+19,lawson,rb,15,9,0,Finished,19,0 days 00:38:03.033000,0 days 00:01:38.654000
+19,gasly,alpine,13,10,0,Finished,19,0 days 00:38:03.355000,0 days 00:01:38.932000
+19,bortoleto,sauber,20,11,0,Finished,19,0 days 00:38:03.878000,0 days 00:01:39.006000
+19,hadjar,rb,12,12,0,Finished,19,0 days 00:38:04.457000,0 days 00:01:39.057000
+19,hulkenberg,sauber,4,13,0,Finished,19,0 days 00:38:04.853000,0 days 00:01:39.069000
+19,colapinto,alpine,17,14,0,Finished,19,0 days 00:38:06.235000,0 days 00:01:39.235000
+19,bearman,haas,16,15,0,Finished,19,0 days 00:38:11.805000,0 days 00:01:38.435000
+19,ocon,haas,19,16,0,Retired,15,,0 days 00:01:38.701000
+19,stroll,aston_martin,14,17,0,Retired,15,,0 days 00:01:38.766000
+19,norris,mclaren,2,18,0,Retired,0,,
+19,piastri,mclaren,3,19,0,Retired,0,,
+19,alonso,aston_martin,6,20,0,Retired,0,,
+21,norris,mclaren,1,1,8,Finished,24,0 days 00:53:25.928000,0 days 00:01:12.120000
+21,antonelli,mercedes,2,2,7,Finished,24,0 days 00:53:26.773000,0 days 00:01:12.138000
+21,russell,mercedes,4,3,6,Finished,24,0 days 00:53:28.246000,0 days 00:01:12.263000
+21,max_verstappen,red_bull,6,4,5,Finished,24,0 days 00:53:30.351000,0 days 00:01:12.617000
+21,leclerc,ferrari,8,5,4,Finished,24,0 days 00:53:42.411000,0 days 00:01:13.111000
+21,alonso,aston_martin,5,6,3,Finished,24,0 days 00:53:44.234000,0 days 00:01:13.226000
+21,hamilton,ferrari,11,7,2,Finished,24,0 days 00:53:44.531000,0 days 00:01:12.955000
+21,gasly,alpine,13,8,1,Finished,24,0 days 00:53:45.294000,0 days 00:01:13.155000
+21,stroll,aston_martin,7,9,0,Finished,24,0 days 00:53:49.861000,0 days 00:01:13.197000
+21,hadjar,rb,9,10,0,Finished,24,0 days 00:53:55.476000,0 days 00:01:13.444000
+21,ocon,haas,18,11,0,Finished,24,0 days 00:53:56.928000,0 days 00:01:13.791000
+21,bearman,haas,15,12,0,Finished,24,0 days 00:54:02.262000,0 days 00:01:13.757000
+21,tsunoda,red_bull,19,13,0,Finished,24,0 days 00:54:04.390000,0 days 00:01:13.921000
+21,sainz,williams,20,14,0,Finished,24,0 days 00:54:04.879000,0 days 00:01:13.712000
+21,hulkenberg,sauber,10,15,0,Finished,24,0 days 00:54:08.277000,0 days 00:01:12.186000
+21,lawson,rb,17,16,0,Finished,24,0 days 00:54:09.018000,0 days 00:01:13.896000
+21,albon,williams,12,17,0,Finished,24,0 days 00:54:21.384000,0 days 00:01:13.372000
+21,bortoleto,sauber,14,18,0,Retired,23,-1 days +22:54:14.288000,0 days 00:01:13.517000
+21,piastri,mclaren,3,19,0,Retired,5,,0 days 00:01:12.992000
+21,colapinto,alpine,16,20,0,Retired,5,,0 days 00:01:14.056000
+23,piastri,mclaren,1,1,8,Finished,19,0 days 00:26:51.033000,0 days 00:01:23.988000
+23,russell,mercedes,2,2,7,Finished,19,0 days 00:26:55.984000,0 days 00:01:24.564000
+23,norris,mclaren,3,3,6,Finished,19,0 days 00:26:57.312000,0 days 00:01:24.507000
+23,max_verstappen,red_bull,6,4,5,Finished,19,0 days 00:27:00.087000,0 days 00:01:24.541000
+23,tsunoda,red_bull,5,5,4,Finished,19,0 days 00:27:10.360000,0 days 00:01:24.816000
+23,antonelli,mercedes,7,6,3,Finished,19,0 days 00:27:12.424000,0 days 00:01:24.464000
+23,alonso,aston_martin,4,7,2,Finished,19,0 days 00:27:15.589000,0 days 00:01:25.415000
+23,sainz,williams,8,8,1,Finished,19,0 days 00:27:18.366000,0 days 00:01:25.463000
+23,hadjar,rb,11,9,0,Finished,19,0 days 00:27:19.239000,0 days 00:01:25.404000
+23,albon,williams,10,10,0,Finished,19,0 days 00:27:19.958000,0 days 00:01:25.509000
+23,bortoleto,sauber,13,11,0,Finished,19,0 days 00:27:23.999000,0 days 00:01:25.663000
+23,bearman,haas,12,12,0,Finished,19,0 days 00:27:25.562000,0 days 00:01:25.593000
+23,leclerc,ferrari,9,13,0,Finished,19,0 days 00:27:26.215000,0 days 00:01:25.638000
+23,lawson,rb,16,14,0,Finished,19,0 days 00:27:27.949000,0 days 00:01:25.620000
+23,ocon,haas,15,15,0,Finished,19,0 days 00:27:29.871000,0 days 00:01:25.555000
+23,hulkenberg,sauber,14,16,0,Finished,19,0 days 00:27:30.671000,0 days 00:01:25.678000
+23,hamilton,ferrari,18,17,0,Finished,19,0 days 00:27:37.204000,0 days 00:01:25.782000
+23,gasly,alpine,19,18,0,Finished,19,0 days 00:28:00.567000,0 days 00:01:23.188000
+23,stroll,aston_martin,17,19,0,Finished,19,0 days 00:28:08.993000,0 days 00:01:23.585000
+23,colapinto,alpine,20,20,0,Finished,19,0 days 00:28:11.837000,0 days 00:01:23.765000

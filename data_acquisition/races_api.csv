@@ -1,0 +1,25 @@
+round,raceName,date,time,sprintDate,sprintTime,circuitId
+1,Australian Grand Prix,2025-03-16,04:00:00Z,,,albert_park
+2,Chinese Grand Prix,2025-03-23,07:00:00Z,2025-03-22,03:00:00Z,shanghai
+3,Japanese Grand Prix,2025-04-06,05:00:00Z,,,suzuka
+4,Bahrain Grand Prix,2025-04-13,15:00:00Z,,,bahrain
+5,Saudi Arabian Grand Prix,2025-04-20,17:00:00Z,,,jeddah
+6,Miami Grand Prix,2025-05-04,20:00:00Z,2025-05-03,16:00:00Z,miami
+7,Emilia Romagna Grand Prix,2025-05-18,13:00:00Z,,,imola
+8,Monaco Grand Prix,2025-05-25,13:00:00Z,,,monaco
+9,Spanish Grand Prix,2025-06-01,13:00:00Z,,,catalunya
+10,Canadian Grand Prix,2025-06-15,18:00:00Z,,,villeneuve
+11,Austrian Grand Prix,2025-06-29,13:00:00Z,,,red_bull_ring
+12,British Grand Prix,2025-07-06,14:00:00Z,,,silverstone
+13,Belgian Grand Prix,2025-07-27,13:00:00Z,2025-07-26,10:00:00Z,spa
+14,Hungarian Grand Prix,2025-08-03,13:00:00Z,,,hungaroring
+15,Dutch Grand Prix,2025-08-31,13:00:00Z,,,zandvoort
+16,Italian Grand Prix,2025-09-07,13:00:00Z,,,monza
+17,Azerbaijan Grand Prix,2025-09-21,11:00:00Z,,,baku
+18,Singapore Grand Prix,2025-10-05,12:00:00Z,,,marina_bay
+19,United States Grand Prix,2025-10-19,19:00:00Z,2025-10-18,17:00:00Z,americas
+20,Mexico City Grand Prix,2025-10-26,20:00:00Z,,,rodriguez
+21,São Paulo Grand Prix,2025-11-09,17:00:00Z,2025-11-08,14:00:00Z,interlagos
+22,Las Vegas Grand Prix,2025-11-23,04:00:00Z,,,vegas
+23,Qatar Grand Prix,2025-11-30,16:00:00Z,2025-11-29,14:00:00Z,losail
+24,Abu Dhabi Grand Prix,2025-12-07,13:00:00Z,,,yas_marina

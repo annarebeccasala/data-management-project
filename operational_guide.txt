@@ -1,0 +1,62 @@
+F1 2025 Database – Operational Guide
+
+1. Requirements
+   - Python: 3.x
+   - Libraries: pandas, requests, beautifulsoup4, re, pymongo
+
+2. Project Structure
+   .
+   ├── data_acquisition
+   │      ├── data_acquisition_api.ipynb
+   │      ├── data_acquisition_scraping.ipynb
+   │      ├── circuits_wiki.csv
+   │      ├── constructors_api.csv
+   │      ├── constructors_wiki.csv
+   │      ├── drivers_api.csv
+   │      ├── drivers_wiki.csv
+   │      ├── races_api.csv
+   │      ├── results_api.csv
+   │      └── sprints_api.csv
+   ├── data_cleaning
+   │      ├── data_cleaning.ipynb
+   │      ├── circuits_wiki_clean.csv
+   │      ├── constructor_wiki_clean.csv
+   │      ├── drivers_api_clean.csv
+   │      ├── drivers_wiki_clean.csv
+   │      ├── races.csv
+   │      ├── results_api_clean.csv
+   │      └── sprints_api_clean.csv
+   ├── data_integration
+   │      ├── data_integration.ipynb
+   │      ├── circuits.csv
+   │      ├── constructors.csv
+   │      ├── drivers.csv
+   │      └── results.csv
+   ├── data_storage
+   │      └── mongodb.ipynb
+   ├── operational_guide.txt
+   ├── report.pdf
+   └── presentation.pdf
+
+3. Execution Order
+   1. Data Acquisition
+      • Run data_acquisition_api.ipynb to download API data.
+      • Run data_acquisition_scraping.ipynb to scrape Wikipedia data.
+
+   2. Data Cleaning
+      • Run data_cleaning.ipynb to clean all CSV files.
+
+   3. Data Integration
+      • Run data_integration.ipynb to merge cleaned datasets and generate final CSVs.
+
+   4. Data Storage
+      • Run mongodb.ipynb to populate the MongoDB database f1_2025.
+
+4. Output
+   - Clean and integrated CSV files:
+      • In data_cleaning: races.csv
+      • In data_integration: circuits.csv, constructors.csv, drivers.csv, results.csv
+   - MongoDB database: f1_2025
+
+5. Query Execution
+   - Run sample queries in mongodb.ipynb
